@@ -3,6 +3,7 @@
 <body>
 <div class="container ">
     <#include "../partials/_nav.ftl">
+    <br>
     <h1 align="center" class="display-4 mb-5">Детали заказа</h1>
 
 <#--Cart Detail Table-->
