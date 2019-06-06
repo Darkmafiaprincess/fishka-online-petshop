@@ -12,7 +12,7 @@
         <p>★ Произведено Федоровой Верой Александром со всем присущим вниманием и любовью привитыми в Севастопольском государтсвенном университете ★</p>
         <a href="https://vk.com/idverunchick">☎ Страница VK </a>
         <br>
-        <a href="https://github.com/darkmafiaprincess">۞ Исходный код на Github </a>
+        <a href="https://github.com/Darkmafiaprincess/fishka-online-petshop">۞ Исходный код на Github </a>
     </div>
     <!--/.Copyright-->
 </div>
