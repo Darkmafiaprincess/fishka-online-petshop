@@ -5,7 +5,7 @@
         <th scope="col">Фото</th>
         <th scope="col">Код</th>
         <th scope="col">Название</th>
-        <th scope="col">Тип</th>
+        <#--        <th scope="col">Тип</th>-->
         <th scope="col">Описание</th>
         <th scope="col">Цена</th>
         <th scope="col">В наличии</th>
@@ -22,7 +22,7 @@
             </th>
             <td class="align-middle">${productInfo.getProductId()}</td>
             <td class="align-middle">${productInfo.getProductName()}</td>
-            <td class="align-middle">${categoryArray[productInfo.getCategoryType()]}</td>
+            <#--            <td class="align-middle">${categoryArray[productInfo.getCategoryType()]}</td>-->
             <td class="align-middle">${productInfo.getProductDescription()}</td>
             <td class="align-middle">${productInfo.getProductPrice()?string.currency}</td>
             <td class="align-middle">${productInfo.getProductStock()}</td>
